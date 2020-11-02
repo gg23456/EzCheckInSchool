@@ -59,7 +59,7 @@ Fork的项目->Settings->Action->I understand... 开启Actions
 |Method|URL|修改|
 | :-----| :---- | :---- |
 |`POST`|`https://reportedh5.17wanxiao.com/sass/api/epmpics`|`main.py`|
-|`POST`|`https://reportedh5.17wanxiao.com/api/passcard/queryOrg`|`response.json`|
+|`POST`|`https://reportedh5.17wanxiao.com/api/remind/openRemind`|`response.json`|
 
 ### 捐赠
 最后，如果觉得这个项目对你有帮助的话
